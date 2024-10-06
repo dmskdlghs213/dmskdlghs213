@@ -1,4 +1,4 @@
-# masa
+# Masato Inoue
 
 [![](https://raw.githubusercontent.com/dmskdlghs213/dmskdlghs213/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
